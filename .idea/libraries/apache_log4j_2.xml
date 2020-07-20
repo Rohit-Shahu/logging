@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apache-log4j-2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../epamprojects/apache-log4j-2.3-bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../epamprojects/apache-log4j-2.3-bin" recursive="false" />
+  </library>
+</component>
